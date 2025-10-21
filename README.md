@@ -3,8 +3,8 @@
 >This bot is designed to work on Android devices and ensures optimal performance by rotating proxies and simulating natural user activity to avoid detection by Instagram’s anti-bot systems.
 
 <p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="appilot.png" alt="BITBASH Banner" width="100%">
+  <a href="https://appilot.app" target="_blank">
+    <img src="media/appilot.png" alt="BITBASH Banner" width="100%">
   </a>
 </p>
 <p align="center">
@@ -50,8 +50,8 @@ The **Instagram Automation Bot** is a fully automated solution designed to run m
 
 </p>
 <p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="instagram-automation.png" alt="instagram-automation" width="95%">
+  <a href="https://appilot.app" target="_blank">
+    <img src="media/instagram-automation.png" alt="instagram-automation" width="95%">
   </a>
 </p>
 
