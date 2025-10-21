@@ -1,0 +1,10 @@
+{
+  "actions": [
+    {
+      "action": "follow",
+      "target": "user1",
+      "status": "success",
+      "timestamp": "2025-10-21T14:30:00Z"
+    }
+  ]
+}
