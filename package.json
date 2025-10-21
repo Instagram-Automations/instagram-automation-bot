@@ -1,0 +1,14 @@
+{
+  "name": "instagram-automation-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "appium": "^1.22.0",
+    "appilot": "^1.0.0",
+    "fs": "0.0.1"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}
