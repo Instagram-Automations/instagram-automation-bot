@@ -51,7 +51,7 @@ The **Instagram Automation Bot** is a fully automated solution designed to run m
 </p>
 <p align="center">
   <a href="https://appilot.app" target="_blank">
-    <img src="media/instagram-automation.png" alt="instagram-automation" width="95%">
+    <img src="media/instagram-automation-appilot.png" alt="instagram-automation" width="95%">
   </a>
 </p>
 
