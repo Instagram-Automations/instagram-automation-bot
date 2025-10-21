@@ -26,7 +26,6 @@
 ## **Introduction**
 The **Instagram Automation Bot** is a fully automated solution designed to run multiple Instagram accounts on real Android devices. This bot mimics human-like behavior for tasks such as account creation, login, posting, messaging, following, unfollowing, liking, commenting, and story viewing. The bot is powered by **Appium** and **Appilot** for seamless remote device control, making it fully wireless without needing ADB or USB connections.
 
----
 
 ## **Why Use the Instagram Automation Bot?**
 - **Increase Engagement**: Automatically follow/unfollow, comment, like posts, and view stories to boost user interaction and engagement.
