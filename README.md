@@ -22,6 +22,11 @@
   </a>
 </p>
 
+<p align="center">
+  Created by Appilot, built to showcase our approach to Automation!<br>
+  <strong>If you are looking for custom Instagram Automation Bot, you've just found your team — Let’s Chat.👆👆</strong>
+</p>
+
 
 ## **Introduction**
 The **Instagram Automation Bot** is a fully automated solution designed to run multiple Instagram accounts on real Android devices. This bot mimics human-like behavior for tasks such as account creation, login, posting, messaging, following, unfollowing, liking, commenting, and story viewing. The bot is powered by **Appium** and **Appilot** for seamless remote device control, making it fully wireless without needing ADB or USB connections.
